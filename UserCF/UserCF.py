@@ -1,6 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/8/4 9:01 下午
-# @Author  : Michael Zhouy
 from __future__ import division
 import pandas as pd
 import numpy as np
