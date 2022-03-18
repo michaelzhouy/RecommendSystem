@@ -22,7 +22,6 @@ class ItemCF(object):
     def fit(self, train):
         """
             @function: 模型训练 得到物品相似矩阵W
-
             @param:
                 train {DataFrame} user item rating 隐反馈数据集有历史行为的item rating都为1
         """
